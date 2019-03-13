@@ -1,7 +1,7 @@
 //在读入命令时，tab（制表符）键可以补全某些东西。(没错被注释了)
 
 基操
-mkdir files ：在本地创建 files 文件夹
+mkdir files ：在本地创建 files 文件夹名
 cd files ：进入该文件夹操作
 pwd 查看当前文件夹的路径（当然电脑中的
 git init ： 将所在文件夹变成git可操作的（其目录中多了.git文件（隐藏（用 ls -ah命令使其可见
